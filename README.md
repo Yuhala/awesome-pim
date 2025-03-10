@@ -20,16 +20,11 @@ Please feel free to do a pull request with more resources.
 
 
 
-
-
-
 ### PIM Benchmarking
 - [Benchmarking a New Paradigm: An Experimental Analysis of a Real Processing-in-Memory Architecture](https://arxiv.org/pdf/2105.03814)
 - [SparseP: Towards Efficient Sparse Matrix Vector Multiplication on Real Processing-In-Memory Systems](https://arxiv.org/pdf/2201.05072)
 - [Scalability Limitations of Processing-in-Memory using Real System Evaluations](https://wiki.kaustubh.us/w/img_auth.php/scalability_limitations.pdf)
 - [A Case Study of Processing-in-Memory in off-the-Shelf Systems](https://www.usenix.org/system/files/atc21-nider.pdf) | Usenix ATC'21
-
-
 
 
 ### PIM Bioinformatics
@@ -55,14 +50,13 @@ Please feel free to do a pull request with more resources.
 - [Evaluating Homomorphic Operations on a Real-World Processing-In-Memory System](https://arxiv.org/pdf/2309.06545)
 
 
-
 ### Misc
 - [Processing Data Where It Makes Sense: Enabling In-Memory Computation](https://arxiv.org/pdf/1903.03988)
 - [A many-core architecture for in-memory data processing](https://pages.cs.wisc.edu/~venkatv/MICRO-50_223-Camera-Ready.pdf)
 - [SimplePIM: A Software Framework for Productive and Efficient Processing-in-Memory](https://arxiv.org/pdf/2310.01893)
 - [PIM-MMU: A Memory Management Unit for Accelerating Data Transfers in Commercial PIM Systems](https://arxiv.org/pdf/2409.06204) | MICRO'24
 - [Processing in Storage Class Memory](https://www.usenix.org/system/files/hotstorage20_paper_nider.pdf) | Hotstorage'20
-
+- [UPMEM PIM resources](https://www.upmem.com/ressources/)
 
 
 ### Open-source repositories
