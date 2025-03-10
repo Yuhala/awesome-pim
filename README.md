@@ -45,9 +45,11 @@ Please feel free to do a pull request with more resources.
 
 
 ### PIM Security
+- [Enabling Low-Cost Secure Computing on Untrusted In-Memory Architectures](https://arxiv.org/pdf/2501.17292)
 - [Evaluating the Potential of In-Memory Processing to Accelerate Homomorphic Encryption](https://arxiv.org/pdf/2412.09144) | SRDS'24
 - [FHEmem: A Processing In-Memory Accelerator for Fully Homomorphic Encryption](https://arxiv.org/pdf/2311.16293)
 - [Evaluating Homomorphic Operations on a Real-World Processing-In-Memory System](https://arxiv.org/pdf/2309.06545)
+  
 
 
 ### Misc
