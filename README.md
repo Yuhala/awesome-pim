@@ -36,7 +36,7 @@ Please feel free to do a pull request with more resources.
 - [BIMSA: accelerating long sequence alignment using processing-in-memory](https://www.biorxiv.org/content/10.1101/2024.05.10.593513v1.full.pdf)
 - [Accelerating Genome Analysis: A Primer on an Ongoing Journey](https://arxiv.org/pdf/2008.00961)
 - [DART-PIM: DNA read mApping acceleRaTor Using Processing-In-Memory](https://arxiv.org/html/2411.03832v1)
-- []()
+- [DNA Mapping using Processor-in-Memory Architecture](https://hal.science/hal-01399997/document)
 
 
 ### PIM Graph Processing
@@ -50,17 +50,18 @@ Please feel free to do a pull request with more resources.
 
 
 ### PIM Security
-- []()
 - [Evaluating the Potential of In-Memory Processing to Accelerate Homomorphic Encryption](https://arxiv.org/pdf/2412.09144) | SRDS'24
 - [FHEmem: A Processing In-Memory Accelerator for Fully Homomorphic Encryption](https://arxiv.org/pdf/2311.16293)
 - [Evaluating Homomorphic Operations on a Real-World Processing-In-Memory System](https://arxiv.org/pdf/2309.06545)
-- []()
+
 
 
 ### Misc
 - [Processing Data Where It Makes Sense: Enabling In-Memory Computation](https://arxiv.org/pdf/1903.03988)
 - [A many-core architecture for in-memory data processing](https://pages.cs.wisc.edu/~venkatv/MICRO-50_223-Camera-Ready.pdf)
 - [SimplePIM: A Software Framework for Productive and Efficient Processing-in-Memory](https://arxiv.org/pdf/2310.01893)
+- [PIM-MMU: A Memory Management Unit for Accelerating Data Transfers in Commercial PIM Systems](https://arxiv.org/pdf/2409.06204) | MICRO'24
+- [Processing in Storage Class Memory](https://www.usenix.org/system/files/hotstorage20_paper_nider.pdf) | Hotstorage'20
 
 
 
